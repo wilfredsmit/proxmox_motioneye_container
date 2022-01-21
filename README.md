@@ -4,7 +4,7 @@ This link/script will Install MotionEye in a proxmox container and config the de
 To create the MotionEye container in Proxmox you have to open a SSH shell or console and copy this link in it and hit "Enter"
 
 ```
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/wilfredsmi/proxmox_motioneye_container/master/create_container.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/wilfredsmit/proxmox_motioneye_container/master/create_container.sh)"
 ```
 After the installation is done it wil give you the information to connect to the MotionEye Web interface.
 
